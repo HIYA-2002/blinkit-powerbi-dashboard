@@ -56,3 +56,13 @@ Learning project — focused on building foundational Power BI dashboarding skil
 * PBIX Dashboard file
 * Dataset used for analysis
 * Dashboard screenshots
+
+---
+
+## Dashboard Preview
+
+![Overview](screenshots/dashboard-overview.png)
+![Sales Trend](screenshots/sales-trend.png)
+![Outlet Analysis](screenshots/outlet-analysis.png)
+![Item Analysis](screenshots/item-details.png)
+![Information](screenshots/info-page.png)
