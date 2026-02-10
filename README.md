@@ -61,8 +61,8 @@ Learning project — focused on building foundational Power BI dashboarding skil
 
 ## Dashboard Preview
 
-![Overview](screenshots/dashboard-overview.png)
-![Sales Trend](screenshots/sales-trend.png)
-![Outlet Analysis](screenshots/outlet-analysis.png)
-![Item Analysis](screenshots/item-details.png)
-![Information](screenshots/info-page.png)
+![Overview](Screenshots/dashboard-overview.png)
+![Sales Trend](Screenshots/sales-trend.png)
+![Outlet Analysis](Screenshots/outlet-analysis.png)
+![Item Analysis](Screenshots/item-details.png)
+![Information](Screenshots/info-page.png)
